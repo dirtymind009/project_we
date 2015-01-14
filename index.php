@@ -8,4 +8,5 @@
 include_once "Databases/Database.php";
 
 $_db = new Database();
+echo 'From milan';
 echo "This is it";
