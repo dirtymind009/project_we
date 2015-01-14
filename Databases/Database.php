@@ -6,4 +6,15 @@
  * Time: 10:36 PM
  */
 
-echo "This is it";
+class Database {
+    private $_HOST;
+    private $_USER;
+    private $_PASSWORD;
+    private $_DBNAME;
+    private $connection;
+
+    public function __construct()
+    {
+        
+    }
+}
