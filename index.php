@@ -7,5 +7,4 @@
  */
 include_once "Databases/Database.php";
 
-$_db = new Database();
-echo "This is it";
+echo "Hey Now Brown Cow";
