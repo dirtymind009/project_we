@@ -7,7 +7,7 @@
  */
 
 class Database {
-    private $_HOST = 'server40.000webhost.com';
+    private $_HOST = 'mysql13.000webhost.com';
     private $_USER = 'a3283943_root';
     private $_PASSWORD = '123456789%abc';
     private $_DBNAME= 'a3283943_profile';
