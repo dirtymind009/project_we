@@ -7,13 +7,5 @@
  */
 include_once "Databases/Database.php";
 
-<<<<<<< HEAD
-$_db = new Database();
-echo 'From milan pc';
-echo "This is it";
-echo "this is not it";
-=======
-echo "Change";
-echo "This is it";
-echo "Dirty Mind Says.....";
->>>>>>> origin/master
+
+echo "Hey You, Brown Cow !! :p";
